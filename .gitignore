@@ -1,0 +1,6 @@
+node_modules
+dist/
+__MACOSX/
+.vscode/
+build/
+package-lock.json
